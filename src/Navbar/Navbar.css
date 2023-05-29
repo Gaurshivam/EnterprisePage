@@ -1,0 +1,38 @@
+.Navbar{
+  width: 100%;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 35px;
+    font-weight: bold;
+}
+
+button{
+    padding: 8px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.title{
+    width: 30%;
+    color: black;
+}
+
+.menu{
+    width: 40%;
+}
+
+.Login{
+    width: 30%;
+}
